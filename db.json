@@ -15,6 +15,6 @@
   "users": [
   {"name": "thomas", "age": 2}, 
   {"name": "aaaaaa", "age": 23}, 
-  {"name": "dfsdf", "age": 12}, 
+  {"name": "dfsdf", "age": 12}
   ]
 }
